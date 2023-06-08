@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Desktop\Flappy Bird Oyun Projesi\Flappy Bird Oyun Projesi\Flappy Bird Oyun Projesi\bin\Debug\Flappy Bird Oyun Projesi.exe.config
+C:\Users\Lenovo\Desktop\Flappy Bird Oyun Projesi\Flappy Bird Oyun Projesi\Flappy Bird Oyun Projesi\bin\Debug\Flappy Bird Oyun Projesi.exe
+C:\Users\Lenovo\Desktop\Flappy Bird Oyun Projesi\Flappy Bird Oyun Projesi\Flappy Bird Oyun Projesi\bin\Debug\Flappy Bird Oyun Projesi.pdb
+C:\Users\Lenovo\Desktop\Flappy Bird Oyun Projesi\Flappy Bird Oyun Projesi\Flappy Bird Oyun Projesi\obj\Debug\Flappy Bird Oyun Projesi.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Flappy Bird Oyun Projesi\Flappy Bird Oyun Projesi\Flappy Bird Oyun Projesi\obj\Debug\Flappy Bird Oyun Projesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Desktop\Flappy Bird Oyun Projesi\Flappy Bird Oyun Projesi\Flappy Bird Oyun Projesi\obj\Debug\Flappy_Bird_Oyun_Projesi.Form1.resources
+C:\Users\Lenovo\Desktop\Flappy Bird Oyun Projesi\Flappy Bird Oyun Projesi\Flappy Bird Oyun Projesi\obj\Debug\Flappy_Bird_Oyun_Projesi.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Flappy Bird Oyun Projesi\Flappy Bird Oyun Projesi\Flappy Bird Oyun Projesi\obj\Debug\Flappy Bird Oyun Projesi.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Flappy Bird Oyun Projesi\Flappy Bird Oyun Projesi\Flappy Bird Oyun Projesi\obj\Debug\Flappy Bird Oyun Projesi.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Flappy Bird Oyun Projesi\Flappy Bird Oyun Projesi\Flappy Bird Oyun Projesi\obj\Debug\Flappy Bird Oyun Projesi.exe
+C:\Users\Lenovo\Desktop\Flappy Bird Oyun Projesi\Flappy Bird Oyun Projesi\Flappy Bird Oyun Projesi\obj\Debug\Flappy Bird Oyun Projesi.pdb
